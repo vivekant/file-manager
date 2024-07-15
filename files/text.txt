@@ -1,0 +1,3 @@
+get request can checked  throught browser but post request cant , so
+we will make a html file in public where i will write a function which 
+will check post request is working or not.
