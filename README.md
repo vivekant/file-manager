@@ -1,2 +1,2 @@
 # file-manager
-this will organise your files wrt extension
+## this will organise your files wrt extension
